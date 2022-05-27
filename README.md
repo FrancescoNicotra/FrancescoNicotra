@@ -7,9 +7,9 @@
 
 Studio informatica 🎓 presso l'università degli studi di Catania 🏛. Mi piace molto imparare cose nuove 💡. Amo conoscere nuove tecnologie ✨. Mi piace molto lo sviluppo di applicazioni web 🕸️.
 
-Joined Github **2** years ago.
+Mi sono unito a Github **2** anni fa.
 
-Like My Work?
+Ti piacciono i miei lavori?
 
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
