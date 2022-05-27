@@ -17,7 +17,7 @@ Like My Work?
 ### Skill personali:
 
 - 🛠 &nbsp; Lavoro momentaneamente con Nodejs, React, <br /> Javascript, c++,  etc.
-- 🚀 &nbsp; Sto imparando momentaneamente Full Stack Development.
+- 🚀 &nbsp; Sto imparando momentaneamente a diventare un Full Stack Developer.
 - 👨🏻‍💻 &nbsp; Tutti i miei progetti li trovi su [Github](https://github.com/FrancescoNicotra).
 - 📫 &nbsp; Come contattarmi: francesco.nicotra23@gmail.com.
 
