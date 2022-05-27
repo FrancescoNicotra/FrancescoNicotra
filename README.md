@@ -39,10 +39,10 @@ Ti piacciono i miei lavori?
 -->
 ## 📊 Statistiche GitHub
 
-  <br/><a href="https://github.com/ManciSee/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" src="https://github-readme-streak-stats.herokuapp.com?user=ManciSee&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+  <br/><a href="https://github.com/FrancescoNicotra/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" src="https://github-readme-streak-stats.herokuapp.com?user=FrancescoNicotra&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
     </a>
-  <a href="https://github.com/ManciSee/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManciSee&langs_count=8&count_private=true&layout=compact&theme=dracula&hide_border=true&" /></a>
+  <a href="https://github.com/FrancescoNicotra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancescoNicotra&langs_count=8&count_private=true&layout=compact&theme=dracula&hide_border=true&" /></a>
   <br/>
   
 
@@ -50,7 +50,7 @@ Ti piacciono i miei lavori?
 <br/>
 <br/>
 
-<a href="https://github.com/ManciSee/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=ManciSee&bg_color=282A36&color=8be9fd&line=ff79c6&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/FrancescoNicotra/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=FrancescoNicotra&bg_color=282A36&color=8be9fd&line=ff79c6&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
