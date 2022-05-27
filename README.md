@@ -1,4 +1,4 @@
-## Hey 👋, sono [Francesco Nicotra!](https://github.com/FrancescoNicotra/)
+## Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, sono [Francesco Nicotra!](https://github.com/FrancescoNicotra/)
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Francuzzo99)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/francesconicotra__/)
