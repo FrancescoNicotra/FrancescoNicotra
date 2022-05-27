@@ -12,7 +12,7 @@ Mi sono unito a Github **2** anni fa.
 Ti piacciono i miei lavori?
 
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<img align="center" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 ### Skill personali:
 
@@ -37,9 +37,3 @@ Ti piacciono i miei lavori?
 <!--
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
 -->
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
