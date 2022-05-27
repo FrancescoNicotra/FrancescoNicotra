@@ -37,3 +37,20 @@ Ti piacciono i miei lavori?
 <!--
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
 -->
+## 📊 Statistiche GitHub
+
+  <br/><a href="https://github.com/ManciSee/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" src="https://github-readme-streak-stats.herokuapp.com?user=ManciSee&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+    </a>
+  <a href="https://github.com/ManciSee/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManciSee&langs_count=8&count_private=true&layout=compact&theme=dracula&hide_border=true&" /></a>
+  <br/>
+  
+
+
+<br/>
+<br/>
+
+<a href="https://github.com/ManciSee/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=ManciSee&bg_color=282A36&color=8be9fd&line=ff79c6&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
