@@ -24,7 +24,6 @@ Ti piacciono i miei lavori?
 ### Le cose che mi piacciono:
 
 - 💻 &nbsp; Sviluppo applicazioni web
-- 📰 &nbsp; Leggere articoli sulle nuove tecnologie, quando possibile.
 
 ### Languages and Tools:
 
