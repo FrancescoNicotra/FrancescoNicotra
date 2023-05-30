@@ -48,7 +48,7 @@ Ti piacciono i miei lavori?
 <br/>
 <br/>
 
-<a href="https://github.com/FrancescoNicotra/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=FrancescoNicotra&bg_color=282A36&color=8be9fd&line=ff79c6&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/FrancescoNicotra/github-readme-activity-graph"><img src="[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FrancescoNicotra&bg_color=d1ffea&color=000000&line=ffa200&point=9e0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)" /></a>
 
 <br/>
 <br/>
