@@ -7,7 +7,6 @@
 
 Studio informatica 🎓 presso l'università degli studi di Catania 🏛. Mi piace molto imparare cose nuove 💡. Amo conoscere nuove tecnologie ✨. Mi piace molto lo sviluppo di applicazioni web 🕸️.
 
-Mi sono unito a Github **2** anni fa.
 
 Ti piacciono i miei lavori?
 
