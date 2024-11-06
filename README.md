@@ -1,28 +1,27 @@
-## Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, sono [Francesco Nicotra!](https://github.com/FrancescoNicotra/)
+## Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, I'm [Francesco Nicotra!](https://github.com/FrancescoNicotra/)
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Francuzzo99)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/Francuzzo99)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/francesconicotra__/)
 
-### È un piacere vederti qui!
+### Good to see you here!
 
-Studio informatica 🎓 presso l'università degli studi di Catania 🏛. Mi piace molto imparare cose nuove 💡. Amo conoscere nuove tecnologie ✨. Mi piace molto lo sviluppo di applicazioni web 🕸️.
+I'm studying computer science 🎓 at the University of Catania 🏛. I love learning new things 💡 and discovering new technologies ✨. I really enjoy web application development 🕸️.
 
-
-Ti piacciono i miei lavori?
+Do you like my work?
 
 
 <img align="center" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 ### Skill personali:
 
-- 🛠 &nbsp; Lavoro momentaneamente con Nodejs, React, <br /> Javascript, c++,  etc.
-- 🚀 &nbsp; Sto imparando momentaneamente a diventare un Full Stack Developer.
-- 👨🏻‍💻 &nbsp; Tutti i miei progetti li trovi su [Github](https://github.com/FrancescoNicotra).
-- 📫 &nbsp; Come contattarmi: francesco.nicotra23@gmail.com.
+- 🛠 &nbsp; I am currently working with Nodejs, React, <br /> Javascript, c++, python, NextJS, docker.
+- 🚀 &nbsp; I am working on becoming a fullstack developer.
+- 👨🏻‍💻 &nbsp; All my projects can be found on [Github](https://github.com/FrancescoNicotra).
+- 📫 &nbsp; Contact me: francesco.nicotra23@gmail.com.
 
-### Le cose che mi piacciono:
+### Things I like:
 
-- 💻 &nbsp; Sviluppo applicazioni web
+- 💻 &nbsp; Web application development
 
 ### Languages and Tools:
 
@@ -35,7 +34,7 @@ Ti piacciono i miei lavori?
 <!--
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
 -->
-## 📊 Statistiche GitHub
+## 📊 GitHub statistics
 
   <br/><a href="https://github.com/FrancescoNicotra/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" src="https://github-readme-streak-stats.herokuapp.com?user=FrancescoNicotra&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
